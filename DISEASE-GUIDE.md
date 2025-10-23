@@ -296,10 +296,10 @@ For more details, you can refer to:
 - [Tomato mosaic virus - Wikipedia](https://en.wikipedia.org/wiki/Tomato_mosaic_virus)
 - [Tomato viruses | UMN Extension](https://extension.umn.edu/disease-management/tomato-viruses)
 
-### 38. Tomato___healthy
+<!-- ### 38. Tomato___healthy
 Healthy tomato plants are those that are free from diseases and pests, and are well-maintained through proper cultural practices. Key practices include selecting disease-resistant varieties, proper pruning, adequate irrigation, and balanced fertilization. Healthy tomato plants produce high-quality fruit and have a longer productive lifespan.
 
 For more details, you can refer to:
 - [Tomato | Crops - Plantix](https://plantix.net/en/library/crops/tomato/)
 - [13 Best Tips for Planting and Growing Great Tomatoes - The Spruce](https://www.thespruce.com/top-tomato-growing-tips-1402587)
-- [Tomato Cultivation: Tips for a Healthy Crop - The Farming Insider](https://thefarminginsider.com/tomato-cultivation/)
+- [Tomato Cultivation: Tips for a Healthy Crop - The Farming Insider](https://thefarminginsider.com/tomato-cultivation/) -->
